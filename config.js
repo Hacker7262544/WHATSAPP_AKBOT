@@ -15,11 +15,11 @@ global.devs = '919971606684';
 global.website = 'https://github.com/akshitbhatia2004/WHATSAPP_AKBOT' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/ghex9sW.jpg'
 module.exports = {
-  botname: process.env.BOT_NAME || '𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐀𝐊𝐁𝐎𝐓',
-  ownername:process.env.OWNER_NAME || 'akshitbhatia2004',
+  botname: process.env.BOT_NAME || 'Y̶A̶Q̶O̶O̶B̶_𝐀𝐊𝐁𝐎𝐓',
+  ownername:process.env.OWNER_NAME || 'Y̶A̶Q̶O̶O̶B̶',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
-  auto_read_status : process.env.AUTO_READ_STATUS || 'false',
+  auto_read_status : process.env.AUTO_READ_STATUS || 'true',
   packname: process.env.PACK_INFO.split(";")[1] || 'Name',
   autoreaction: process.env.AUTO_REACTION || 'off',
   antibadword : process.env.ANTI_BAD_WORD || 'nobadwordokey',
